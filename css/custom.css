@@ -84,6 +84,8 @@ border-color: rgb(102, 96, 96);
 body{
   font-size: 1rem;
   background-color: rgb(18, 129, 64);
+  display: flex;
+  justify-content: center;
 }
 
 
