@@ -136,11 +136,4 @@ body{
         grid-area: footer;
         background-color: chartreuse;
         
-        }
-               
-        
-       navbar{
-            grid-area: servicios;
-            background-color: darkgreen;  
-        
-        }}}
+        }}
